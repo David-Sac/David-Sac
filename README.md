@@ -77,9 +77,8 @@ Soy **Bachiller en Ingeniería de Sistemas e Informática** (UNAP) y actualmente
 ## 📈 Actividad en GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=David-Sac&theme=default&hide_border=true&locale=es" alt="Racha de contribuciones"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=David-Sac&theme=default&hide_border=true&locale=es" alt="Racha de contribuciones"/>
 </p>
----
 
 ## 🎓 Formación y certificaciones
 
