@@ -67,8 +67,8 @@ Soy **Bachiller en Ingeniería de Sistemas e Informática** (UNAP) y actualmente
 
 | Proyecto | Descripción | Herramientas | Estado |
 |---|---|---|---|
-| 🌦️ **[Clima de Iquitos](https://github.com/David-Sac/clima-iquitos)** | Análisis de temperatura y lluvias en Iquitos a lo largo de los años con datos del SENAMHI. | Python · Pandas · Matplotlib | ![](https://img.shields.io/badge/En%20progreso-yellow?style=flat-square) |
-| 🏥 **[Datos abiertos de Loreto](https://github.com/[TU-USUARIO]/[REPO])** | Exploración de indicadores de [salud / educación] en Loreto con datos de datosabiertos.gob.pe. | Python · Pandas · Seaborn | ![](https://img.shields.io/badge/Planeado-lightgrey?style=flat-square) |
+| 🌦️ **[Clima de Iquitos](https://github.com/David-Sac/clima-iquitos)** | Análisis de temperatura y lluvias en Iquitos a lo largo de los años con datos del SENAMHI. | Python · Pandas · Matplotlib | ![](https://img.shields.io/badge/Completado-brightgreen?style=flat-square) |
+| 🏥 **[Datos abiertos de Loreto](https://github.com/[TU-USUARIO]/[REPO])** | Exploración de indicadores de [salud / educación] en Loreto con datos de datosabiertos.gob.pe. | Python · Pandas · Seaborn | ![](https://img.shields.io/badge/En%20progreso-yellow?style=flat-square) |
 | 🎮 **[EDA de videojuegos](https://github.com/[TU-USUARIO]/[REPO])** | Análisis exploratorio de ventas globales de videojuegos (dataset de Kaggle). | Python · NumPy · Matplotlib | ![](https://img.shields.io/badge/Planeado-lightgrey?style=flat-square) |
 | 📈 **[Dashboard en Power BI](https://github.com/[TU-USUARIO]/[REPO])** | [Descripción breve del dashboard y la pregunta de negocio que responde]. | Power BI · SQL | ![](https://img.shields.io/badge/Planeado-lightgrey?style=flat-square) |
 
@@ -79,6 +79,7 @@ Soy **Bachiller en Ingeniería de Sistemas e Informática** (UNAP) y actualmente
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=David-Sac&theme=default&hide_border=true&locale=es&show_private=true" alt="Racha de contribuciones"/>
 </p>
+
 ## 🎓 Formación y certificaciones
 
 
