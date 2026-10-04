@@ -1,10 +1,12 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=160&section=header&text=David%20Saccsara&fontSize=40&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Python%20%7C%20Ciencia%20de%20Datos%20e%20IA&descSize=16&descAlignY=75" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=160&section=header&text=David%20Saccsara&fontSize=40&fontColor=ffffff&desc=Data%20Analyst%20Jr%20%7C%20Python%20%7C%20Ciencia%20de%20Datos%20e%20IA&descSize=16&descAlignY=75" alt="banner"/>
 </p>
 
 <h1 align="center">Hola, soy David 👋</h1>
-<h3 align="center">Data Analyst en formación · Convierto datos en decisiones</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=600&lines=Data+Analyst+Jr+%7C+Convierto+datos+en+decisiones;Python+%C2%B7+SQL+%C2%B7+Power+BI;Estudiante+de+Maestr%C3%ADa+en+Ciencia+de+Datos+e+IA" alt="Typing SVG"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davidsacc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -20,20 +22,19 @@
 
 Soy **Bachiller en Ingeniería de Sistemas e Informática** (UNAP) y actualmente curso la **Maestría en Ciencia de Datos e Inteligencia Artificial** en la UTP. Me apasiona encontrar historias dentro de los datos y usarlas para resolver problemas reales, especialmente en la Amazonía peruana.
 
-- 🔭 Actualmente trabajo en: **Proyectos Personales**
-- 🌱 Estoy aprendiendo: **Pandas, NumPy, Matplotlib y SQL**
-- 🔬 Experiencia previa en: **Procesamiento de imágenes (IIAP)**
+- 🔭 Actualmente: **Asistente de Laboratorio Especializado en la UTP** y desarrollando proyectos de datos
+- 🌱 Estoy aprendiendo: **SQL, Pandas, NumPy y Matplotlib**
+- 🔬 Experiencia previa: **Procesamiento de imágenes y datos geoespaciales (IIAP)**
 - 🎯 Mi objetivo: **Trabajar como Data Analyst en el sector bancario**
-- ⚡ Dato curioso: **Me gusta estar al pendiente de las nuevas tecnologias relacionadas con al IA**
+- ⚡ Dato curioso: **Me gusta estar al pendiente de las nuevas tecnologías relacionadas con la IA**
 
 ---
 
 ## 🛠️ Stack tecnológico
 
-
 **Lenguajes y análisis**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql&theme=light" alt="lenguajes"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="lenguajes"/>
 </p>
 
 **Librerías de datos**
@@ -53,7 +54,7 @@ Soy **Bachiller en Ingeniería de Sistemas e Informática** (UNAP) y actualmente
 
 **Herramientas**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=light" alt="herramientas"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="herramientas"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab"/>
 </p>
@@ -62,15 +63,22 @@ Soy **Bachiller en Ingeniería de Sistemas e Informática** (UNAP) y actualmente
 
 ## 📊 Proyectos destacados
 
-<!-- 📌 Cada proyecto: qué pregunta respondiste, con qué datos, qué encontraste.
-     Cambia el estado del badge: En%20progreso-yellow / Completado-brightgreen / Planeado-lightgrey -->
-
 | Proyecto | Descripción | Herramientas | Estado |
 |---|---|---|---|
 | 🌦️ **[Clima de Iquitos](https://github.com/David-Sac/clima-iquitos)** | Análisis de temperatura y lluvias en Iquitos a lo largo de los años con datos del SENAMHI. | Python · Pandas · Matplotlib | ![](https://img.shields.io/badge/Completado-brightgreen?style=flat-square) |
-| 🏥 **[Datos abiertos de Loreto](https://github.com/[TU-USUARIO]/[REPO])** | Exploración de indicadores de [salud / educación] en Loreto con datos de datosabiertos.gob.pe. | Python · Pandas · Seaborn | ![](https://img.shields.io/badge/En%20progreso-yellow?style=flat-square) |
-| 🎮 **[EDA de videojuegos](https://github.com/[TU-USUARIO]/[REPO])** | Análisis exploratorio de ventas globales de videojuegos (dataset de Kaggle). | Python · NumPy · Matplotlib | ![](https://img.shields.io/badge/Planeado-lightgrey?style=flat-square) |
-| 📈 **[Dashboard en Power BI](https://github.com/[TU-USUARIO]/[REPO])** | [Descripción breve del dashboard y la pregunta de negocio que responde]. | Power BI · SQL | ![](https://img.shields.io/badge/Planeado-lightgrey?style=flat-square) |
+
+🔜 **Próximamente:** exploración de datos abiertos de Loreto · EDA de ventas de videojuegos · dashboard en Power BI
+
+---
+
+## 🎯 En progreso: Certificación Oracle SQL (1Z0-071)
+
+- [x] SELECT, WHERE, INNER JOIN
+- [x] Funciones, GROUP BY y HAVING
+- [ ] Todos los JOINs y subconsultas
+- [ ] CTEs y funciones de ventana
+- [ ] Proyecto de SQL con datos bancarios
+- [ ] Examen 1Z0-071
 
 ---
 
@@ -80,13 +88,26 @@ Soy **Bachiller en Ingeniería de Sistemas e Informática** (UNAP) y actualmente
   <img src="https://streak-stats.demolab.com/?user=David-Sac&timezone=America/Lima&theme=default&hide_border=true&locale=es&show_private=true" alt="Racha de contribuciones"/>
 </p>
 
-## 🎓 Formación y certificaciones
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/David-Sac/David-Sac/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/David-Sac/David-Sac/output/github-snake.svg" alt="Snake animation"/>
+  </picture>
+</p>
 
+---
+
+<details>
+<summary><b>🎓 Formación y certificaciones</b></summary>
+<br/>
 
 - 🎓 **Maestría en Ciencia de Datos e IA** — Universidad Tecnológica del Perú *(en curso)*
 - 🎓 **Bachiller en Ingeniería de Sistemas e Informática** — Universidad Nacional de la Amazonía Peruana
 - 📊 **Power BI: Básico, Intermedio y Avanzado** — Cibertec (2025)
+- 🐍 **Python Básico – Intermedio (120 h)** — Universidad Nacional de Piura (2021)
 - 🌐 **Inglés Avanzado** — ICPNA
+
+</details>
 
 ---
 
