@@ -112,7 +112,7 @@ Soy **Bachiller en Ingeniería de Sistemas e Informática** (UNAP) y actualmente
 ---
 
 <p align="center">
-  ⭐ ¿Te gustó algún proyecto? ¡Déjale una estrella!
+  ⭐ ¿Te gustó algún proyecto? ¡Déjame una estrella!
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=100&section=footer" width="100%" alt="footer"/>
