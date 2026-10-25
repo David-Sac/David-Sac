@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=160&section=header&text=David%20Saccsara&fontSize=40&fontColor=ffffff&desc=Data%20Analyst%20Jr%20%7C%20Python%20%7C%20Ciencia%20de%20Datos%20e%20IA&descSize=16&descAlignY=75" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=160&section=header&text=David%20Saccsara&fontSize=40&fontColor=ffffff&desc=Data%20Analyst%20Jr%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descSize=16&descAlignY=75" alt="banner"/>
 </p>
 
 <h1 align="center">Hola, soy David 👋</h1>
@@ -20,21 +20,23 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy **Bachiller en Ingeniería de Sistemas e Informática** (UNAP) y actualmente curso la **Maestría en Ciencia de Datos e Inteligencia Artificial** en la UTP. Me apasiona encontrar historias dentro de los datos y usarlas para resolver problemas reales, especialmente en la Amazonía peruana.
+Soy **Bachiller en Ingeniería de Sistemas e Informática** (UNAP) y curso la **Maestría en Ciencia de Datos e Inteligencia Artificial** en la UTP. Trabajo con datos abiertos de la Amazonía peruana para responder preguntas concretas: desde el calor en Iquitos hasta dónde y a quiénes afecta más el dengue en Loreto.
+
+En mis proyectos cuido especialmente la **calidad de los datos**: validar cada resultado, documentar las decisiones y explicar las limitaciones.
 
 - 🔭 Actualmente: **Asistente de Laboratorio Especializado en la UTP** y desarrollando proyectos de datos
-- 🌱 Estoy aprendiendo: **SQL, Pandas, NumPy y Matplotlib**
+- 🌱 Profundizando en: **SQL avanzado (certificación Oracle 1Z0-071) y modelado de datos en Power BI**
 - 🔬 Experiencia previa: **Procesamiento de imágenes y datos geoespaciales (IIAP)**
 - 🎯 Mi objetivo: **Trabajar como Data Analyst en el sector bancario**
-- ⚡ Dato curioso: **Me gusta estar al pendiente de las nuevas tecnologías relacionadas con la IA**
+- ⚡ Dato curioso: **mis proyectos se conectan entre sí: el análisis del clima de Iquitos me ayudó a interpretar la temporada del dengue**
 
 ---
 
 ## 🛠️ Stack tecnológico
 
-**Lenguajes y análisis**
+**Lenguajes y bases de datos**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="lenguajes"/>
+  <img src="https://skillicons.dev/icons?i=python,sqlite&theme=dark" alt="lenguajes"/>
 </p>
 
 **Librerías de datos**
@@ -42,13 +44,12 @@ Soy **Bachiller en Ingeniería de Sistemas e Informática** (UNAP) y actualmente
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 </p>
 
 **Visualización y BI**
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="DAX"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
 
@@ -61,13 +62,27 @@ Soy **Bachiller en Ingeniería de Sistemas e Informática** (UNAP) y actualmente
 
 ---
 
-## 📊 Proyectos destacados
+## 📊 Proyectos
 
-| Proyecto | Descripción | Herramientas | Estado |
+### 🦟 [Dengue en Loreto (2000–2024)](https://github.com/David-Sac/dengue-loreto)
+
+**¿Cuándo, dónde y a quiénes afecta más el dengue en Loreto?** Análisis de 107,074 casos con datos abiertos del MINSA y población del RENIEC, de los datos crudos a un dashboard en Power BI.
+
+- **Hallazgo principal:** la ciudad de Iquitos concentra la mayoría de los casos, pero el mayor riesgo por habitante está en **Yurimaguas, con casi 4 veces el promedio de Loreto**.
+- **Técnicas:** limpieza de texto y edades, SQL con CTE, funciones de ventana y `JOIN`, cálculo de incidencia, modelo estrella y medidas DAX validadas contra SQL.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/David-Sac/dengue-loreto/main/figures/05_dashboard_inicio.png" width="85%" alt="Dashboard de dengue en Loreto"/>
+</p>
+
+### Todos los proyectos
+
+| Proyecto | Pregunta | Herramientas | Estado |
 |---|---|---|---|
-| 🌦️ **[Clima de Iquitos](https://github.com/David-Sac/clima-iquitos)** | Análisis de temperatura y lluvias en Iquitos a lo largo de los años con datos del SENAMHI. | Python · Pandas · Matplotlib | ![](https://img.shields.io/badge/Completado-brightgreen?style=flat-square) |
+| 🦟 **[Dengue en Loreto](https://github.com/David-Sac/dengue-loreto)** | ¿Cuándo, dónde y a quiénes afecta más el dengue en Loreto? | Python · SQL · Power BI | ![](https://img.shields.io/badge/Completado-brightgreen?style=flat-square) |
+| 🌡️ **[Índice de calor en Iquitos](https://github.com/David-Sac/clima-iquitos)** | ¿Cómo ha cambiado la sensación térmica en Iquitos entre 2000 y 2024? | Python · Pandas · Matplotlib | ![](https://img.shields.io/badge/Completado-brightgreen?style=flat-square) |
 
-🔜 **Próximamente:** exploración de datos abiertos de Loreto · EDA de ventas de videojuegos · dashboard en Power BI
+🔜 **Próximamente:** proyecto de SQL con datos del sector bancario.
 
 ---
 
@@ -75,8 +90,9 @@ Soy **Bachiller en Ingeniería de Sistemas e Informática** (UNAP) y actualmente
 
 - [x] SELECT, WHERE, INNER JOIN
 - [x] Funciones, GROUP BY y HAVING
-- [ ] Todos los JOINs y subconsultas
-- [ ] CTEs y funciones de ventana
+- [x] LEFT JOIN y subconsultas *(aplicados en dengue-loreto)*
+- [x] CTEs y funciones de ventana *(aplicados en dengue-loreto)*
+- [ ] Resto de JOINs, operadores de conjuntos y DDL/DML
 - [ ] Proyecto de SQL con datos bancarios
 - [ ] Examen 1Z0-071
 
