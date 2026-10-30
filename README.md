@@ -128,7 +128,7 @@ En mis proyectos cuido especialmente la **calidad de los datos**: validar cada r
 ---
 
 <p align="center">
-  ⭐ ¿Te gustó algún proyecto? ¡Déjame una estrella!
+  ⭐ ¿Te interesó algún proyecto? ¡Regalame una estrella!
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=100&section=footer" width="100%" alt="footer"/>
