@@ -82,7 +82,23 @@ En mis proyectos cuido especialmente la **calidad de los datos**: validar cada r
 | 🦟 **[Dengue en Loreto](https://github.com/David-Sac/dengue-loreto)** | ¿Cuándo, dónde y a quiénes afecta más el dengue en Loreto? | Python · SQL · Power BI | ![](https://img.shields.io/badge/Completado-brightgreen?style=flat-square) |
 | 🌡️ **[Índice de calor en Iquitos](https://github.com/David-Sac/clima-iquitos)** | ¿Cómo ha cambiado la sensación térmica en Iquitos entre 2000 y 2024? | Python · Pandas · Matplotlib | ![](https://img.shields.io/badge/Completado-brightgreen?style=flat-square) |
 
-🔜 **Próximamente:** proyecto de SQL con datos del sector bancario.
+---
+
+## 🚧 Construyendo ahora: riesgo de crédito bancario
+
+**[riesgo-credito-banco](https://github.com/David-Sac/riesgo-credito-banco)** · *¿Qué clientes tienen más probabilidad de no pagar su préstamo, y qué tan útil sería un modelo para decidir a quién aprobárselo?*
+
+Datos reales y anonimizados de un banco (dataset Berka): 8 tablas relacionadas, 682 préstamos y más de un millón de transacciones.
+
+| Etapa | Qué incluye | Estado |
+|---|---|---|
+| 1. Descarga | Conexión a la base de datos pública y validación de las 8 tablas | ✅ |
+| 2. Exploración | Claves primarias y foráneas, diagrama entidad-relación, códigos traducidos | ✅ |
+| 3. Variables con SQL | Comportamiento de cada cuenta **antes** del préstamo (CTE, funciones de ventana), sin fuga de información | 🔄 |
+| 4. Análisis estadístico | Tasa de mora por perfil, probabilidades condicionales | ⏳ |
+| 5. Modelos | Regresión logística, árboles y Gradient Boosting con validación cruzada | ⏳ |
+| 6. Decisión con costos | Umbral según el costo de un mal préstamo frente a rechazar a un buen cliente | ⏳ |
+| 7. Dashboard | Riesgo por segmento en Power BI | ⏳ |
 
 ---
 
@@ -93,16 +109,12 @@ En mis proyectos cuido especialmente la **calidad de los datos**: validar cada r
 - [x] LEFT JOIN y subconsultas *(aplicados en dengue-loreto)*
 - [x] CTEs y funciones de ventana *(aplicados en dengue-loreto)*
 - [ ] Resto de JOINs, operadores de conjuntos y DDL/DML
-- [ ] Proyecto de SQL con datos bancarios
+- [ ] Proyecto de SQL con datos bancarios *(en curso: riesgo-credito-banco)*
 - [ ] Examen 1Z0-071
 
 ---
 
-## 📈 Actividad en GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=David-Sac&timezone=America/Lima&theme=default&hide_border=true&locale=es&show_private=true" alt="Racha de contribuciones"/>
-</p>
+## 🐍 Mis contribuciones
 
 <p align="center">
   <picture>
@@ -128,7 +140,7 @@ En mis proyectos cuido especialmente la **calidad de los datos**: validar cada r
 ---
 
 <p align="center">
-  ⭐ ¿Te interesó algún proyecto? ¡Regalame una estrella!
+  ⭐ ¿Te interesó algún proyecto? ¡Regálame una estrella!
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=100&section=footer" width="100%" alt="footer"/>
