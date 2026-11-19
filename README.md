@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=160&section=header&text=David%20Saccsara&fontSize=40&fontColor=ffffff&desc=Data%20Analyst%20Jr%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descSize=16&descAlignY=75" alt="banner"/>
 </p>
 
-<h1 align="center">Hola, soy David Saccsara👋</h1>
+<h1 align="center">Hola, soy David👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=600&lines=Data+Analyst+Jr+%7C+Convierto+datos+en+decisiones;Python+%C2%B7+SQL+%C2%B7+Power+BI;Estudiante+de+Maestr%C3%ADa+en+Ciencia+de+Datos+e+IA" alt="Typing SVG"/>
